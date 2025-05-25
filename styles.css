@@ -99,7 +99,7 @@ a:hover{
 }
 .home{
     position: relative;
-    background: url(placeholder-images/bg-home-office-studio.jpg);
+    background: url(/bg-home-office-studio.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -127,7 +127,7 @@ a:hover{
     }
 }
 .resume {
-  background: url(placeholder-images/office-dark-background.webp) no-repeat center center fixed;
+  background: url(/office-dark-background.webp) no-repeat center center fixed;
   background-size: cover;
   display: flex;
   flex-direction: column;
